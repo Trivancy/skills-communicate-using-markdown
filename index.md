@@ -9,3 +9,11 @@ def greet(name):
     print(f"Hello, {name}!")
 
 greet("GitHub Actions")
+
+# Here's a task list for my project:
+
+- [x] Complete the first draft of the README
+- [x] Add headers
+- [x] Add an image
+- [x] Make a task list
+- [ ] Merge your pull request
